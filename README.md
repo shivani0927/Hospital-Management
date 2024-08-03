@@ -1,2 +1,2 @@
 # Hospital-Management
-Basic curd operations using Hibernate
+Basic curd operations using Hibernate in Java
